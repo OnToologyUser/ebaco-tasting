@@ -28,16 +28,16 @@
      xmlns:ebaco="http://purl.org/ceu/ebaco/1.0#"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="http://purl.org/ceu/ebaco/tasting">
-        <rdfs:label rdf:datatype="&xsd;string">Ontología E-BACO</rdfs:label>
+        <rdfs:label rdf:datatype="&xsd;string">Ontología E-Baco</rdfs:label>
         <dc:date rdf:datatype="&xsd;dateTime">09-feb-2015 11:20:52</dc:date>
         <webprotege:revision rdf:datatype="&xsd;integer">426</webprotege:revision>
         <dc:creator rdf:datatype="&xsd;string">Mari Ángeles Gómez Flechoso (magflechoso@bio.ucm.es)</dc:creator>
         <owl:versionInfo rdf:datatype="&xsd;string">Vesión 1.0</owl:versionInfo>
-        <rdfs:comment xml:lang="en">The E-BACO ontology defines a precise vocabulary for representing knowledge in the oenology domain. 
-The E-BACO-Tasting module contains the basic concepts, properties and relations for describing wines, the wine tasting and the pairing of wine and food. 
+        <rdfs:comment xml:lang="en">The E-Baco ontology defines a precise vocabulary for representing knowledge in the oenology domain. 
+The E-Baco-Tasting module contains the basic concepts, properties and relations for describing wines, the wine tasting and the pairing of wine and food. 
 It has been developed by the Complutense University of Madrid and the San Pablo CEU University.</rdfs:comment>
-        <rdfs:comment xml:lang="es">La ontología E-BACO define un vocabulario preciso para representación de conocimiento en el dominio de la enología.
-El módulo E-BACO-Tasting contiene los conceptos, propiedades y relaciones básicas para describir los vinos, las catas de los vinos y el maridaje de vinos con comidas. 
+        <rdfs:comment xml:lang="es">La ontología E-Baco define un vocabulario preciso para representación de conocimiento en el dominio de la enología.
+El módulo E-Baco-Tasting contiene los conceptos, propiedades y relaciones básicas para describir los vinos, las catas de los vinos y el maridaje de vinos con comidas. 
 Ha sido desarrollada por la Universidad Complutense de Madrid y la Universidad San Pablo CEU.</rdfs:comment>
         <dc:creator rdf:resource="http://aprendeconalf.es/foaf.rdf"/>
         <rdfs:seeAlso rdf:resource="http://ebaco.github.io/"/>
